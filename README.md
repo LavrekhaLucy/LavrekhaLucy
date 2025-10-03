@@ -1,13 +1,15 @@
 ## Привіт, я Людмила 👋
 Junior Full-Stack JavaScript Developer з України.  
 Працюю з **React, Node.js, MongoDB**, люблю створювати сучасні вебдодатки та вчитися новим технологіям.
+![Profile Views](https://komarev.com/ghpvc/?username=LavrekhaLucy&color=green)
+
 
 
    
 ### 📫 Зі мною можна зв'язатися:
-- Email: lavrehaludmila@gmail.com
-- LinkedIn: [linkedin.com/in/людмила-лавреха](https://www.linkedin.com/in/людмила-лавреха-7b24ba343)
-- GitHub: [github.com/LavrekhaLucy](https://github.com/LavrekhaLucy)
+[![Gmail](https://img.icons8.com/ios-filled/30/000000/gmail.png)](mailto:lavrehaludmila@gmail.com)
+[![LinkedIn](https://img.icons8.com/ios-filled/30/0A66C2/linkedin.png)](https://www.linkedin.com/in/людмила-лавреха-7b24ba343)
+[![GitHub](https://img.icons8.com/ios-glyphs/30/181717/github.png)](https://github.com/LavrekhaLucy)
 
 
 
@@ -24,7 +26,6 @@ Junior Full-Stack JavaScript Developer з України.
 - 🔐 [Auth API](https://github.com/lyudmyla-lavrekha/auth-api) — REST API з авторизацією на Node.js та JWT.
 
 
-  
-### 📊 Статистика GitHub:
-![Profile Views](https://komarev.com/ghpvc/?username=LavrekhaLucy&color=blue)
+
+
 
