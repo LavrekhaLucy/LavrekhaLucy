@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 -->
   #### 📫 How to reach me:
   
-  [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](www.linkedin.com/in/людмила-лавреха-7b24ba343)  &nbsp; <a href="mailto:lavrehaludmila@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+ 📫 Зі мною можна зв'язатися:
+- Email: lavrehaludmila@gmail.com
+- LinkedIn: [linkedin.com/in/людмила-лавреха](https://www.linkedin.com/in/людмила-лавреха-7b24ba343)
+- GitHub: [github.com/LavrekhaLucy](https://github.com/LavrekhaLucy)
+
   
   #### 👨🏻‍💻 Languages and Tools <br />
