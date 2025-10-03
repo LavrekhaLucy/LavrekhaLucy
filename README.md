@@ -26,4 +26,5 @@ Junior Full-Stack JavaScript Developer з України.
 
   
 ### 📊 Статистика GitHub:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lyudmyla-lavrekha&show_icons=true&theme=radical)
+![Profile Views](https://komarev.com/ghpvc/?username=LavrekhaLucy&color=blue)
+
