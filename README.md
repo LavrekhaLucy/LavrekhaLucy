@@ -32,11 +32,6 @@ Junior Full-Stack JavaScript Developer з України.
 - 🎬 [Movie App](https://github.com/LavrekhaLucy/react_control) — React-додаток для перегляду фільмів.
 - 🔐 [Auth API](https://github.com/LavrekhaLucy/control_node.js) — REST API з авторизацією на Node.js та JWT.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LavrekhaLucy&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LavrekhaLucy&layout=compact&theme=tokyonight)
-
-
-
 
 
 
