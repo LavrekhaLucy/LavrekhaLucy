@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=blue&center=true&vCenter=true&width=450&lines=Hi+there+👋+I'm+Liudmyla!;Full+Stack+JS+Developer;Welcome+to+my+GitHub!">
 </a>
 
-![Mern](https://www.mindinventory.com/blog/wp-content/uploads/2021/06/mern-stack.webp)
+![Mern](https://www.budventure.technology/public/frontend/images/blog/blog_2_mern.png)
 
 ## Привіт, я Людмила!
 Junior Full-Stack JavaScript Developer з України.  
