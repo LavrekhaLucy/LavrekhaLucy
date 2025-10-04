@@ -15,7 +15,7 @@ Junior Full-Stack JavaScript Developer з України.
    
 ####  Зі мною можна зв'язатися:
 [![Gmail](https://img.icons8.com/ios-filled/30/000000/gmail.png)](mailto:lavrehaludmila@gmail.com)
-[![LinkedIn](https://img.icons8.com/ios-filled/30/0A66C2/linkedin.png)](https://www.linkedin.com/in/людмила-лавреха-7b24ba343)
+[![LinkedIn](https://img.icons8.com/ios-filled/30/0A66C2/linkedin.png)](https://www.linkedin.com/in/liudmyla-lavrekha/)
 [![GitHub](https://img.icons8.com/ios-glyphs/30/181717/github.png)](https://github.com/LavrekhaLucy)
 
 
