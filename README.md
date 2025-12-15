@@ -25,6 +25,8 @@ Junior Full-Stack JavaScript Developer з України.
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff)
+![NestJs](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=fff)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)
 
 
 
