@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=blue&center=true&vCenter=true&width=450&lines=Hi+there+👋+I'm+Liudmyla!;Full+Stack+JS+Developer;Welcome+to+my+GitHub!">
 </a>
 
-![Mern](https://www.mindinventory.com/blog/wp-content/uploads/2022/03/react-nodejs.webp)
+![Mern](https://media.licdn.com/dms/image/v2/D5612AQFHlmOPnUdDUw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1674106779213?e=2147483647&v=beta&t=M3qKQ9hkERH-EzB6KFSwKgkaKK0WyB0JKT0_FuYjUJw)
 
 ## Привіт, я Людмила!
 Junior Full-Stack JavaScript Developer з України.  
