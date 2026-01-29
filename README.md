@@ -46,15 +46,6 @@ React • Node.js • NestJS • MongoDB • MySQL <br />
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LavrekhaLucy&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LavrekhaLucy&layout=compact)
-
-
----
-
 
 
 
