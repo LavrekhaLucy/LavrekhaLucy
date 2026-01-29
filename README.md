@@ -5,8 +5,10 @@
 ![Mern](https://media.licdn.com/dms/image/v2/D5612AQFHlmOPnUdDUw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1674106779213?e=2147483647&v=beta&t=M3qKQ9hkERH-EzB6KFSwKgkaKK0WyB0JKT0_FuYjUJw)
 
 ## Hi, I'm Liudmyla
-Junior Full-Stack JavaScript Developer from Ukraine. 
-React • Node.js • NestJS • MongoDB • MySQL <br />
+Junior Full-Stack JavaScript Developer from Ukraine.<br />
+Building full-stack applications using React, Node.js, NestJS, MongoDB, and MySQL.<br />
+Passionate about creating modern web applications and continuously improving my skills.<br />
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=LavrekhaLucy&color=green)
 
