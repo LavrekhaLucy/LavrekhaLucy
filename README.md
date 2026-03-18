@@ -42,7 +42,7 @@ Passionate about creating modern web applications and continuously improving my 
 ---
 
 ####  Projects:
-- 🎬 [Movie App](https://github.com/LavrekhaLucy/react_control) — React application for browsing and searching movies.
+- 🎬 [Movie App](https://next-control.vercel.app/) — React application for browsing and searching movies.
 - 🔐 [Auth API](https://github.com/LavrekhaLucy/control_node.js) — REST API with authentication and authorization using Node.js, JWT, and MongoDB.
 - 📚 [CRM Programming School](https://github.com/LavrekhaLucy/crm-programming-school) - Full-stack CRM system built with NestJS and React for managing students and orders.
 
