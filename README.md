@@ -41,16 +41,64 @@ Passionate about creating modern web applications and continuously improving my 
 
 ---
 
-####  Projects:
-- 🎬 [Movie App](https://next-control.vercel.app/) — React application for browsing and searching movies.
-- 🔐 [Auth API](https://github.com/LavrekhaLucy/control_node.js) — REST API with authentication and authorization using Node.js, JWT, and MongoDB.
-- 📚 [CRM Programming School](https://github.com/LavrekhaLucy/crm-programming-school) - Full-stack CRM system built with NestJS and React for managing students and orders.
+## 📂 Featured Projects
 
----
+### 🎬 [Movie Discovery App](https://github.com/LavrekhaLucy/next_control)
+*High-performance movie discovery platform.*
+- **Links:** [📁 Source Code](https://github.com/LavrekhaLucy/next_control) | [🚀 Live Demo on Vercel](https://your-vercel-link.vercel.app/)
+- **Features:** Server-side rendering (SSR), SEO optimization, and responsive UI.
+- **Stack:** Next.js (App Router), TypeScript, Tailwind CSS.
+- **Deployment:** Successfully deployed on Vercel with optimized Core Web Vitals.
+
+### 🔐 [Auth & Identity API](https://github.com/LavrekhaLucy/control_node.js)
+*Robust backend service focused on secure user management and identity verification.*
+- **Links:** [📁 Source Code](https://github.com/LavrekhaLucy/control_node.js)
+- **Core Logic:** Secure authentication flow using JWT with access/refresh token rotation.
+- **Security:** Password hashing (bcrypt), Role-Based Access Control (RBAC), and custom validation middlewares.
+- **Stack:** Node.js, Express, MongoDB (Mongoose), JWT.
+
+### 📚 [CRM for Programming School](https://github.com/LavrekhaLucy/crm-programming-school)
+![Dashboard Preview](https://raw.githubusercontent.com/LavrekhaLucy/crm-programming-school/main/screenshots/dashboard.png)
+
+### 🖼️ Screenshots Gallery
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LavrekhaLucy/crm-programming-school/main/screenshots/dashboard-login.png" width="32%" alt="Login Page" />
+  <img src="https://raw.githubusercontent.com/LavrekhaLucy/crm-programming-school/main/screenshots/dashboard-orders.png" width="32%" alt="Orders Dashboard" />
+  <img src="https://raw.githubusercontent.com/LavrekhaLucy/crm-programming-school/main/screenshots/dashboard-filter.png" width="32%" alt="Filter System" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LavrekhaLucy/crm-programming-school/main/screenshots/dashboard-admin-panel.png" width="32%" alt="Admin Panel" />
+  <img src="https://raw.githubusercontent.com/LavrekhaLucy/crm-programming-school/main/screenshots/dashboard-create-manager.png" width="32%" alt="Create Manager" />
+  <img src="https://raw.githubusercontent.com/LavrekhaLucy/crm-programming-school/main/screenshots/dashboard-edit-order.png" width="32%" alt="Edit Order" />
+</p>
+
+<p align="center">
+  <em>Click on images to see them in full size within the repository.</em>
+</p>
 
 
 
 
+*A comprehensive management system for educational processes.*
+- **Links:** [📁 Source Code](https://github.com/LavrekhaLucy/crm-programming-school)
+- **Features:** RBAC (Admin/Manager roles), dynamic complex filtering, order pagination, and status tracking.
+- **Stack:** NestJS, MySQL (TypeORM), React, Redux Toolkit.
+- **Highlights:** Implemented complex database migrations and custom validation logic for business entities.
+
+
+<details>
+  <summary>📸 Click to view project screenshots</summary>
+  
+  ### Login & Main Dashboard
+  ![Login](https://raw.githubusercontent.com/LavrekhaLucy/crm-programming-school/main/screenshots/dashboard-login.png)
+  ![Orders](https://raw.githubusercontent.com/LavrekhaLucy/crm-programming-school/main/screenshots/dashboard-orders.png)
+  
+  ### Admin & Management
+  ![Admin](https://raw.githubusercontent.com/LavrekhaLucy/crm-programming-school/main/screenshots/dashboard-admin-panel.png)
+  ![Create](https://raw.githubusercontent.com/LavrekhaLucy/crm-programming-school/main/screenshots/dashboard-create-manager.png)
+</details>
 
 
 
