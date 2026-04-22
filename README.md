@@ -42,7 +42,7 @@ making sure every piece of data is handled correctly and the system works seamle
 
 ### 🎬 [Movie Discovery App](https://github.com/LavrekhaLucy/next_control)
 *A fast and responsive way to browse your favorite films*
-- **Links:** [Source Code](https://github.com/LavrekhaLucy/next_control) | [Live Demo on Vercel](https://your-vercel-link.vercel.app/)
+- **Links:** [Source Code](https://github.com/LavrekhaLucy/next_control) | [Live Demo on Vercel](https://next-control.vercel.app))
 - **Features:** Server-side rendering (SSR), SEO optimization, and responsive UI.
 - **Stack:** Next.js (App Router), TypeScript, Tailwind CSS.
 - **Deployment:** Successfully deployed on Vercel with optimized Core Web Vitals.
